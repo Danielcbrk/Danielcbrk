@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/daniel-de-campos-berraquero-a88b8b150/"><img height="28" align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" /></a>
 </a>
 <a>
-  <a href="https://outlook.live.com/mail/0/"><img height="28" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" /></a>
+  <a href="mailto: daniel_cm_br@hotmail.com"><img height="28" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" /></a>
 </a>
 
 
