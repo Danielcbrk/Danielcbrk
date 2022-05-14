@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=Danielcbrk&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -11,6 +11,10 @@
 <a>
   <a href="https://www.linkedin.com/in/daniel-de-campos-berraquero-a88b8b150/"><img height="28" align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" /></a>
 </a>
+<a>
+  <a href="https://outlook.live.com/mail/0/"><img height="28" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" /></a>
+</a>
+
 
 
 
