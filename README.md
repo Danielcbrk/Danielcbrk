@@ -9,7 +9,7 @@
 
 ## Contact 
 <a>
-  <a href="https://www.linkedin.com/in/daniel-de-campos-berraquero-a88b8b150/"><img height="20" align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" /></a>
+  <a href="https://www.linkedin.com/in/daniel-de-campos-berraquero-a88b8b150/"><img height="28" align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" /></a>
 </a>
 
 
