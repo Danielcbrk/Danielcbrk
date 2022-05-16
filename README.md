@@ -1,4 +1,5 @@
 ### Hi there 👋
+# ![Profile views](https://gpvc.arturio.dev/ssssssssssss)  
 <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=Danielcbrk&theme=radical" />
